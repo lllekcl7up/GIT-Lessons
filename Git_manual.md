@@ -1,4 +1,4 @@
-<img src="https://info.algorithmia.com/hs-fs/hubfs/Imported_Blog_Media/git-support-algorithm-development-1.jpg?width=1200&height=630&name=git-support-algorithm-development-1.jpg" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/115775742/224920630-12429d4e-20db-4a3f-bb59-1c93addd3a46.jpeg" alt="drawing" width="500"/>
 
 # Инструкция по работе с Git
 
